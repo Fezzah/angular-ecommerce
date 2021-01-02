@@ -10,14 +10,14 @@ export const products = [
   {
     name: "Ariel Hand Washing Powder - 2Kg",
     price: 580,
-    description: "A great phone with one of the best cameras"
+    description: "Order online at Abinuzi Super Mart and enjoy free delivery to Mashinani or City Outskirts in two to four days."
   },
   {
     image: "https://www.abi-nuzi.co.ke/images/selling/two/1.jpg",
     name: "Kimbo Premium Cooking Oil 3Litres",
     price: 670,
     del: "Kes 720",
-    description: ""
+    description: "Order online at Abinuzi Super Mart and enjoy free delivery to Mashinani or City Outskirts in two to four days."
   }
 ];
 
