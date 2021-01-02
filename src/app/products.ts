@@ -1,22 +1,25 @@
 export const products = [
   {
-    image:'https://copia.co.ke/wp-content/uploads/2019/08/Royco-Mchuzi-Mix-Beef-200g_Seasoning_855_1.jpeg',
-    name: 'Royco Mchuzi Mix Beef 200g',
+    image: "https://www.abi-nuzi.co.ke/images/grocery/four/1.jpg",
+    name: "Royco Mchuzi Mix Beef Kora 200g",
     price: 135,
-    description: 'Order online at Abinuzi Super Mart and enjoy free delivery to Mashinani or City Outskirts in two to four days.'
+    del: "Kes 279",
+    description:
+      "Order online at Abinuzi Super Mart and enjoy free delivery to Mashinani or City Outskirts in two to four days."
   },
   {
-    name: 'Phone Mini',
-    price: 699,
-    description: 'A great phone with one of the best cameras'
+    name: "Ariel Hand Washing Powder - 2Kg",
+    price: 580,
+    description: "A great phone with one of the best cameras"
   },
   {
-    name: 'Phone Standard',
-    price: 299,
-    description: ''
+    image: "https://www.abi-nuzi.co.ke/images/selling/two/1.jpg",
+    name: "Kimbo Premium Cooking Oil 3Litres",
+    price: 670,
+    del: "Kes 720",
+    description: ""
   }
 ];
-
 
 /*
 Copyright Google LLC. All Rights Reserved.
